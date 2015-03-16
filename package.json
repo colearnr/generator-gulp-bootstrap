@@ -4,7 +4,7 @@
 	"description": "Scaffold out a Bootstrap 3 web app",
 	"author": "Jurjen Smakman",
 	"dependencies": {
-		"yeoman-generator": "^0.16.0"
+		"yeoman-generator": "^0.18.10"
 	},
 	"repository": "smakman/generator-gulp-bootstrap",
 	"main": "app/index.js",	
